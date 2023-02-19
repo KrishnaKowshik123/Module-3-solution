@@ -1,0 +1,13 @@
+#maincontent {background-color: rgb(116, 113, 113);
+color: azure;
+}
+
+#h22{text-align: center;}
+
+body { background-color: #61122F;
+       font-size: 14px;
+       color: white;
+       font-family:Helvetica;  
+}
+
+.nav navbar-nav navbar-right{color:  #61122F;}
